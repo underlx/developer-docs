@@ -1944,5 +1944,5 @@ securityDefinitions:
     type: basic
     
 externalDocs:
-  description: "Find out more about UnderLX"
-  url: "https://underlx.com/"
+  description: "UnderLX Developer Portal"
+  url: "https://developer.underlx.com/"
