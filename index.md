@@ -20,6 +20,7 @@ _Mais em breve_
    - [PosPlay](https://posplay.underlx.com);
    - Bot disponível no [servidor de Discord do UnderLX](https://perturbacoes.pt/discord).
  - **[underlx](https://github.com/underlx/underlx)** - código fonte da [aplicação Android](https://play.google.com/store/apps/details?id=im.tny.segvault.disturbances)
+   - inclui o [S2LS](https://github.com/underlx/underlx/tree/master/s2ls/src/main/java/im/tny/segvault/s2ls) (Segvault Subway Location System), sistema especializado de localização do utilizador e de cálculo de rotas na rede de Metro.
 
 O código fonte do projeto UnderLX está sob a licença [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
