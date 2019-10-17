@@ -29,7 +29,9 @@ info:
   The API itself is licensed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)."
   termsOfService: "https://underlx.com/terms"
   contact:
+    name: "UnderLX Team"
     email: "underlx@tny.im"
+    url: "https://underlx.com/contact"
   license:
     name: "Apache 2.0"
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"
