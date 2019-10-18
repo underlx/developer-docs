@@ -1287,6 +1287,9 @@ definitions:
         type: string
         description: "Internal ID of the status source in the UnderLX system"
         example: "mlxscraper-pt-ml"
+      officialSource:
+        type: boolean
+        description: "Whether the `source` is considered official"
   Line:
     type: "object"
     allOf:
