@@ -1236,7 +1236,7 @@ definitions:
           - PASSENGER_INCIDENT
           - STATION_ANOMALY
           - COMMUNITY_REPORTED
-      status:
+      statuses:
         description: "Line statuses"
         type: array
         items:
